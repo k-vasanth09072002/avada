@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+   
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+  
+    
+}
+.secound a{
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+    
+}
+span{
+    color:aquamarine;
+}
+.show{
+    box-shadow: 2px 1px 3px 1px gray;
+    padding: 15px;
+}
+
+
+
+
+.cont{
+    background-color: antiquewhite;
+    
+}
+
+.coun-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+.map{
+    margin-top: 60px;
+    
+}
+.with{
+    display: flex;
+    margin-top: 60px
+
+
+
+}
+
+.with-1{
+    width: 80%;
+}
+.with-2{
+    width: 30%;
+}
+.last{
+    margin-top: 30px;
+}
